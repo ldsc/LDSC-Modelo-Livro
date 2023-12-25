@@ -1,0 +1,104 @@
+* Modelo-LivroAplicativo.org
+** Objetivo: Criar um modelo para apostilas/livros de aplicativos/programas
+*** A ideia é que a estrutura dos livros que falem de aplicativos/programas seja igual; de forma que ao apresentar um programa teremos sempre a mesma ordem;
+*** Tome como base a primeira versão do seu livro de C++ e outros livros;
+*** Na medida do possível arquivos do lyx e a estrutura de diretórios para imagens e listagens deve ser igual; assim, ao fazer scrips e rotinas ficam iguais e agiliza os processos!
+*** Note que teremos 3 níveis de aplicativos/programas:
+**** programas de terminal
+***** O que é?
+***** Como instalar?
+***** Como usar? [exemplos de uso]
+**** programas com interface gráfica  
+***** Use o modelo do livro Usando Emacs - Bueno
+* Modelos
+** Livro C++ Bueno
+*** Não tem um padrão definido, variou de acordo com o aplicativo.
+** Livro Gnuplot in action
+*** Basics
+**** Prelude
+**** Essential
+**** Working with data
+**** Practical matters
+**** 
+*** Polishing
+**** Doing it with style
+**** Decorations
+**** Axes
+**** 
+*** Advanced
+**** Three-dimensional plots
+**** Colors
+**** Advanced plotting concepts
+**** Terminal in depth
+**** Macros, scripting and batch
+**** 
+*** Graphical analysis with gunuplot
+**** Fundamental graphical methods
+**** Techniques of graphical analysis
+**** Coda: Understanding data with graphs
+*** Apendices
+** Livro Learning gnu emacs
+*** Basics
+*** Editing
+*** Search replace
+*** Buffers
+*** Environment
+*** Macros
+*** Formating
+*** Org mode
+*** Computer language suport
+*** Customizing
+*** Lisp
+*** VCS
+*** Platform specific
+*** Help
+** Livro Usando o emacs - Bueno
+*** Prefácio
+**** Capa
+**** Informações de formatação - convenções
+**** Sumário
+**** Figuras
+**** Tabelas
+**** Listagens
+*** Introdução - um tour
+**** O que é?
+***** Descrever o que é o aplicativo, seus objetivos, aplicações e usos.
+**** Informações históricas
+***** Falar da história do aplicativo e de aplicativos similares;
+***** Comparar aplicativos aqui se for curto; se for grande no apêndice
+**** Como instalar?
+***** Instruções passo a passo para instalar
+***** Windows
+***** GNU/Linux
+***** Mac OS X
+**** Como rodar?
+***** Se for programa de terminal só o comando básico
+***** Windows
+***** GNU/Linux
+***** Mac OS X
+
+**** Como obter ajuda?
+***** Apresentar os sistemas de ajuda disponíveis
+***** Help [do aplicativo]
+***** Sites
+***** Livros
+*** Informações básicas
+**** Deve apresentar o uso do aplicativo/programa para iniciantes
+**** Usando xxx - específico de acordo com aplicativo
+**** Usando xxx - específico de acordo com aplicativo
+*** Informações intermediárias
+**** Deve apresentar o uso do aplicativo/programa para usuários intermediários
+**** Usando xxx - específico de acordo com aplicativo [intermediáro]
+*** Informações avançadas
+**** Deve apresentar o uso do aplicativo/programa para usuários avançados
+**** Usando xxx - específico de acordo com aplicativo [avançado]
+*** Leituras complementares
+*** Apêndices
+**** Informações extras; links; 
+**** Atalhos
+**** Comparação com outros similares
+
+* Teste do modelo
+** Pegar o livro do emacs, salvar uma cópia, gerar uma versão baseada no novo modelo.
+** Ler e ver como ficou.
+
